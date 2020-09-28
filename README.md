@@ -59,7 +59,7 @@ in the VM's app directory
  - Navigate to the location of the directory you have saved the files to using your`Terminal`
  - In my case it would be:
  ```bash
-cd /Users/saheedlamina/Desktop/reverse proxy/Reverse Proxy RG
+cd /Users/agbolamina/Desktop/reverse proxy/Reverse Proxy RG
  ```
 - Upon running the `ls` (list)  command, you should find the contents of the directory:
 ```bash
